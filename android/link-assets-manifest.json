@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Gabarito-Bold.ttf",
+      "sha1": "8086f8eb4a4cfdd951edc7454177acbaf34d087e"
+    },
+    {
+      "path": "assets/fonts/Gabarito-Medium.ttf",
+      "sha1": "ef54deab6b9015d1263d86ec1c70f130e2196772"
+    },
+    {
+      "path": "assets/fonts/Gabarito-SemiBold.ttf",
+      "sha1": "64be4c8699826bb4bfe1d5ea5d23530d7c22c95d"
+    },
+    {
+      "path": "assets/fonts/Gabarito-ExtraBold.ttf",
+      "sha1": "0685393ab4e6eedf4044c8b88d1c34bca79b3b3f"
+    },
+    {
+      "path": "assets/fonts/Gabarito-Regular.ttf",
+      "sha1": "9a72632ea52fe43351a8165840e3c173c2b5de86"
+    },
+    {
+      "path": "assets/fonts/Gabarito-Black.ttf",
+      "sha1": "25ef63137539ccf61492cc9945559517e7cb5736"
+    }
+  ]
+}

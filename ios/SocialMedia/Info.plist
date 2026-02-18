@@ -34,7 +34,7 @@
 		<true/>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>RCTNewArchEnabled</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
@@ -51,5 +51,14 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Gabarito-Bold.ttf</string>
+		<string>Gabarito-Medium.ttf</string>
+		<string>Gabarito-SemiBold.ttf</string>
+		<string>Gabarito-ExtraBold.ttf</string>
+		<string>Gabarito-Regular.ttf</string>
+		<string>Gabarito-Black.ttf</string>
+	</array>
 </dict>
 </plist>
